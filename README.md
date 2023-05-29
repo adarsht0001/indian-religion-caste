@@ -7,7 +7,6 @@
 
 The `Indian-Religion-Caste` module is designed to provide a comprehensive and accurate database of caste and religion data in India for educational or research purposes. The module contains structured data on different castes and religions in India, including caste names, descriptions, and historical background. It also includes information on religious practices, traditions, and beliefs.
 
-
 ## Features
 The module provides the following features:
 - Import of caste and religion data in a structured format
