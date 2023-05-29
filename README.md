@@ -76,6 +76,6 @@ In conclusion, the `Indian-Religion-Caste` module can be a valuable resource for
   
 ---
  
-  GitHub: [@adarsh](https://github.com/adarsht0001)
-  GitHub: [@surajKj](https://github.com/srj-kj)
+ GitHub: [@adarsh](https://github.com/adarsht0001)
+ GitHub: [@surajKj](https://github.com/srj-kj)
   
