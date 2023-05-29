@@ -1,6 +1,6 @@
 # indian-religion-caste
 
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/connietran-dev/readme-generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/adarsht0001/indian-religion-caste?style=flat&logo=appveyor)
+ ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/connietran-dev/readme-generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/adarsht0001/indian-religion-caste?style=flat&logo=appveyor)
   
   
 # Indian-Religion-Caste Module
